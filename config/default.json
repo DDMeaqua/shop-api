@@ -14,7 +14,7 @@
     "host": "127.0.0.1",
     "database": "black",
     "user": "root",
-    "password": "",
+    "password": "19991210",
     "port": 3306
   }
 }
